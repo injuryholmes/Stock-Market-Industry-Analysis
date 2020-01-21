@@ -1,0 +1,11 @@
+# macOS Files
+.DS_Store
+
+# data files
+data/
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore local key file 
+keys/
